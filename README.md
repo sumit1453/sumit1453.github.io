@@ -39,8 +39,6 @@ portfolio/
 
 ## 📸 Screenshot
 
-Add a screenshot of your portfolio inside the `assets` folder and display it here:
-
 ```markdown
 ![Portfolio Screenshot](assets/screenshot.png)
 ```
